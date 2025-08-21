@@ -1,0 +1,1043 @@
+.menu__moviendo{
+	position: relative;
+	left: -10%;
+}
+
+.menu__moviendo2{
+	position: relative;
+	left: 9%;
+}
+
+
+.imagen__logo__estilo{
+	height: 100px;
+}
+
+.error{
+	border:1px solid red;
+}
+
+.error2{
+	border:1px solid blue;
+}
+
+::placeholder {
+	font-size:10px!important;
+}
+
+.elementos__flexibles__modales{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.titulo__principal__modales{
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+}
+
+.formulario__display__flex{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 50%;
+} 
+
+#direccionDocumentoExcel{
+	width: 60%;
+	padding:1.7em;
+}
+
+.documentos__excel__productos{
+	margin-left: 5%;
+	width: 25%;
+	background: #01579b;
+	color: white;
+	padding: 1em;
+}
+
+.archivo__escondido{
+	display: none;
+}
+
+.color__subidas{
+	color: white;
+	font-weight: bold;
+}
+
+.tabla__revisiones__usuarios tr td{
+	padding: 1em;
+}
+
+.contenedor__principal__de__formularios2{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 4em;
+}
+
+
+.contenedor__flexibles__productos__importadores{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	font-weight: bold;
+	font-size:18px;
+	text-transform:uppercase;
+}
+
+.rotulos__tabla__productos{
+	font-size: 10px;
+	padding: .5em;
+	vertical-align: middle;
+}
+
+.guardar__productos__excel{
+	padding: 1em;
+	font-weight: bold;
+	color: white;
+	border-radius: .5em;
+	font-size: 12px;
+	background: #01579b;
+}
+
+.tabla__productos{
+	width: 90%;
+}
+
+.tabla__productos tbody tr td{
+	border: 1px solid black;
+}
+
+.cabeceradetablaMercaderia1{
+	width: 90%;
+}
+
+.cabeceradetablaMercaderia1 tr td{
+	vertical-align: middle;
+}
+
+.colores__headers{
+	background: #0277bd!important;
+	font-size: 10px;
+	padding: .5em;
+	vertical-align: middle;
+}
+
+.tabla__elementos__permitidos{
+	width:75%; 
+}
+
+.rotulos__titulos{
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.rotulos__contenidos{
+	font-size: 12px;
+}
+
+.descargas__paddings{
+	padding: 1em;
+}
+
+.tabla__elementos__permitidos thead tr th, .tabla__elementos__permitidos tbody tr th, .tabla__elementos__permitidos tbody tr td{
+	padding: .5em;	
+}
+
+.tabla__elementos__permitidos thead tr th, .tabla__elementos__permitidos tbody tr th{
+	background: #0277bd;
+}
+
+
+.descarga__formato{
+	font-size: 15px;
+	font-weight: bold;
+	color: red;
+}
+
+.modales__exceles{
+	font-size: 14px;
+	font-weight: bold;
+	background: #01579b;
+	color:white;
+	padding: .5em;
+	cursor: pointer;
+	border-radius: .5em;
+	position: relative;
+	top: 4px;
+}
+
+.custom-input-file {
+  background-color: #0091ea;
+  color: white;
+  cursor: pointer;
+  font-size: 10px;
+  font-weight: bold;
+  margin: 0 auto 0;
+  min-height: 15px;
+  overflow: hidden;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  width: 400px;
+}
+
+.custom-input-file .input-file {
+ border: 10000px solid transparent;
+ cursor: pointer;
+ font-size: 10000px;
+ margin: 0;
+ opacity: 0;
+ outline: 0 none;
+ padding: 0;
+ position: absolute;
+ right: -1000px;
+ top: -1000px;
+}
+
+.contenedor__principal__de__formularios{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.contenedor__pagina__principal{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding:80px 0 450px;
+}
+
+.contenedor__de__cedulaInicial{
+	width: 20%;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	top: -30px;
+}
+
+.btn-circle-micro {
+  width: 19px;
+  height: 19px;
+  text-align: center;
+  padding: 2px 0;
+  font-size: 13px;
+  line-height: 1;
+  border-radius: 30px;
+}
+
+
+.imagenMovidita{
+  position: absolute;
+  top: 1%;
+  right: 2%;
+}
+
+.formulario__inicial{
+	width: 50%;
+	height: 250px;
+	position: relative;
+	top: 60px;
+}
+
+
+#ingresarUsuario{
+	background: #2A4480;
+	color: white;
+	position: relative;
+	left: 40%;
+}
+
+.contenedor__tablas{
+	width: 100%;
+	position: relative;
+	right: 5%;
+	top: 15px;
+	padding:60px 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.contenedor__tablas_historial{
+	height: : 80%;
+	width: 90%;
+	position: relative;
+	left: 5%;
+	top: 15px;
+	padding:80px 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.contenedor__tablas_lab{
+	width: 90%;
+	position: relative;
+	left: 5%;
+	top: 15px;
+	padding:80px 0;
+	/*display: flex;*/
+	/*flex-direction: column;*/
+	align-items: center;
+}
+
+.boton__agregar__rol{
+	position: relative;
+	top: -35px;
+	padding: 8px;
+}
+
+.btn-app:hover {
+    border-color: #aaa;
+    transform: scale(1.1);
+}
+
+.btn-app.pdf {
+  background: #d36e70 !important;
+  height: 50px;
+  padding: 14px;
+}
+
+.btn-app.excel {
+    background: #71b071 !important;
+  	height: 50px;
+  	padding: 14px;
+}
+
+.btn-app.csv {
+    background: #e86c3a !important;
+  	height: 50px;
+  	padding: 14px;
+}
+
+.btn-app.imprimir {
+    background: #5d9b9b !important;
+    min-width: 100px;
+    max-width: 100px;
+  	height: 50px;
+  	padding: 14px;
+}
+
+.columna__tabla{
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	color: #666373;
+	text-align: center;
+}
+
+.alineacion__de__elemento{
+	position: relative;
+	left: 40%;
+}
+
+.alineacion__de__elemento2{
+	position: relative;
+	left: 15%;
+}
+
+.verifica__cedula__estilo{
+	background: #006363;
+	padding: 8px;
+}
+
+.contenedor__cedula__buscador{
+	display: flex;
+	cursor: pointer;
+}
+
+
+.titulo__principal__historia__clinica{
+	font-size: 16px;
+	color: #216477;
+	position: relative;
+	top: -10px;
+}
+
+.contenedor__formulario__historia__clinica{
+
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 40px;
+
+}
+
+.formulario__historia__clinica{
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+}
+
+.numeral{
+	padding: 4px;
+	border: 1px solid black;
+	color: black;
+	font-weight: bold;
+}
+
+.titulo__primario{
+	font-size: 14px;
+	color: black;
+}
+
+
+.numeral__sin__el__padding{
+	font-size: 14px;
+	font-weight: bold;
+	color: black;
+}
+
+.contenedor__titulo__primario{
+	display: flex;
+}
+
+.cedulaHistoriaClinica{
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.contenedor__cedula__historia__y__numeral{
+	display: flex;
+	position: relative;
+	left: 69.5%;
+}
+
+#cedulaHistoriaClinica{
+	font-weight: bold;
+	color:black;
+}
+
+.contenedor__datos__de__afiliacion{
+	position: relative;
+	top: 25px;
+	left: 2.5%;
+	width: 97.5%;
+
+}
+
+.contenedor__antecedentes__deportivos{
+
+	position: relative;
+	margin-top: 10px;
+	top: 70px;
+	left: 2.5%;
+	width: 97.5%;
+
+}
+
+.contenedor__antecedentes__patologicos{
+	position: relative;
+	margin-top: 10px;
+	top: 104px;
+	left: 2.5%;
+	width: 97.5%;
+}
+
+.contenedor__antecedentes__gineco{
+	position: relative;
+	margin-top: 10px;
+	top: 140px;
+	left: 2.5%;
+	width: 97.5%;
+}
+
+.contenedor__patologicos__familiares{
+	position: relative;
+	margin-top: 10px;
+	top: 180px;
+	left: 2.5%;
+	width: 97.5%;
+}
+
+.contenedor__habitos{
+	position: relative;
+	margin-top: 10px;
+	top: 210px;
+	left: 2.5%;
+	width: 97.5%;
+}
+
+.contenedor__motivo__de__consulta{
+	position: relative;
+	margin-top: 10px;
+	top: 250px;
+	left: 2.5%;
+	width: 97.5%;
+}
+
+.contenedor__enfermedad__actual{
+	position: relative;
+	margin-top: 10px;
+	top: 290px;
+	left: 2.5%;
+	width: 97.5%;
+}
+
+.contenedor__examen__fisico{
+	position: relative;
+	margin-top: 10px;
+	top: 340px;
+	left: 2.5%;
+	width: 97.5%;
+}
+
+.linea__divisora{
+	margin-top: 5px;
+	margin-bottom: 4px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+}
+
+.linea__divisora2{
+	margin-top: 5px;
+	margin-bottom: 25px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+	top: 15px;
+}
+
+.linea__divisora3{
+	margin-top: 5px;
+	margin-bottom: 25px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+	top: 19px;
+}
+
+.linea__divisora4{
+	margin-top: 5px;
+	margin-bottom: 25px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+	top: 22px;
+}
+
+.linea__divisora5{
+	margin-top: 5px;
+	margin-bottom: 30px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+	top: 25px;
+}
+
+.linea__divisora6{
+	margin-top: 5px;
+	margin-bottom: 35px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+	top: 22px;
+}
+
+.linea__divisora7{
+	margin-top: 5px;
+	margin-bottom: 40px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+	top: 25px;
+}
+
+.linea__divisora8{
+	margin-top: 5px;
+	margin-bottom: 50px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+	top: 28px;
+}
+
+.linea__divisora9{
+	margin-top: 5px;
+	margin-bottom: 60px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+	top: 32px;
+}
+
+.linea__divisora10{
+	margin-top: 5px;
+	margin-bottom: 70px;
+	border: 1px solid black;
+	width: 104%;
+	position: relative;
+	left: -16px;
+	top: 35px;
+}
+
+.separador__agregado{
+	margin-top: 5px;
+}
+
+
+.separador__titulo__primario{
+	position: relative;
+	top: 70px;
+}
+
+.separador__titulo__primario2{
+	position: relative;
+	top: 100px;
+}
+
+.separador__titulo__primarioMujeres{
+	position: relative;
+	top: 130px;
+}
+
+.separador__titulo__primario3{
+	position: relative;
+	top: 180px;
+}
+
+.separador__titulo__primario4{
+	position: relative;
+	top: 210px;
+}
+
+.separador__titulo__primario5{
+	position: relative;
+	top: 240px;
+}
+
+.separador__titulo__primario6{
+	position: relative;
+	top: 280px;
+}
+
+.separador__titulo__primario7{
+	position: relative;
+	top: 330px;
+}
+
+.contenedor__datos__personales{
+	display: flex;
+}
+
+
+.ubicacion__enunciadosHisotria{
+	position: relative;
+	color: black;
+	top: 5px;
+	font-size: 11px;
+	margin-right: 2%;
+	font-weight: normal;
+}
+
+
+.separador__de__campos{
+	margin-top: 15px;
+}
+
+
+#fechaHistoria, #edadHistoria, #razaHistoria, #sexoHistoria,#nombreEntrenadorHistoria ,#planAltoHistoria{
+	height: 27px;
+}
+
+#dietaTipoHistoria,#dietaTiempoHistoria,#tabaquismoTipoHistoria,#tabaquismoTiempoHistoria,#alcholismoTipoHistoria,#alcholismoTiempoHistoria,#farmacoTipoHistoria,#farmacoTiempoHistoria{
+	width: 100%;
+}
+
+.botonHistoriasClinicas{
+	background: #26527C;
+	color: white;
+	position: relative;
+	padding: 8px;
+	top: 400px;
+}
+
+.botonHistoriasClinicas:hover{
+	background: black;
+	color: white;
+	position: relative;
+}
+
+.usuarioValidaCedula{
+	cursor: pointer;
+}
+
+.usuarioValidaCedula:hover{
+	background: white;
+}
+
+.modal__tamano__cambiado{
+	width: 100%;
+	height: 3200px;
+}
+
+.modal__tamano__cambiado_lab{
+	width: 100%;
+	height: 1400px;
+}
+
+.modificando__contenido__del__modal{
+	height: 3200px;
+}
+
+.modificando__contenido__del__modal_lab{
+	height: 100%;
+	width: 100%;
+}
+
+
+.cerrar__moda__desde__el__header{
+	position: 	relative;
+	top: -20px;
+}
+
+#apellidoHistoria, #nombreHistoria,#fechaHistoria,#edadHistoria,#estadoCivilHistoria,#ocupacionHistoria,#instruccionHistoria,#direccionHistoria,#mailHistoria,#telefonoHistoria,#deporteHistoria,#especialidadHistoria,#otrosHistoria,#asociacionHistoria,#edadInicioHistoria,#frecuenciaEntrenamientoHistoria,#horasDiaHistoria,#nombreEntrenadorHistoria,#alergiaHistoria,#inmunizacionHistoria,#menarquiaHistoria,#ciclosHistoria,#fumHistoria,#eHistoria,#aHistoria,#pHistoria,#cHistoria,#anticoncepcionHistoria,#observacionHistoria,#antecedentesPatologicosFamiliaresHistoria,#dietaTiempoHistoria,#dietaTipoHistoria,#tabaquismoTipoHistoria,#tabaquismoTiempoHistoria,#alcholismoTipoHistoria,#alcholismoTiempoHistoria,#farmacoTipoHistoria,#farmacoTiempoHistoria,#motivoDeConsultaHistoria,#enfermedadActualHistoria,#taHistorico,#fcHistorico,#tcHistorico,#pesoHistorico,#tallaHistorico,#imcHistorico,#taHistorico,#cabellaCuelloHistoria,#ojosHistoria,#narizHistoria,#oidosHistoria,#gargantaHistoria,#tiroidesHistoria,#toraxHistoria,#pulmonesHistoria,#corazonHistoria,#mamasHistoria,#modulosHistoria,#abdomenHistoria,#pelvisHistoria,#regionInginalHistoria,#musculoEsqueleticoHistoria,#regionCervicalHistoria,#regionDorsalHistoria,#regionLumbarHistoria,#sacroCoxisHistoria,#miembroSuperiorHistoria,#miembroInferiorHistoria,#neurologicoElementalHistoria,#pielFanerasHistoria,#diagnosticoHistoria,#prescripcionHistoria,#celularHistoria{
+	border-top: 0;
+	border-right: 0;
+	border-bottom: 1px dashed black;
+	border-left: 0;
+}
+
+#razaHistoria, #sexoHistoria,#planAltoHistoria{
+	border: none;
+}
+
+.contenedor__fotografia__para__alumno{
+	width: 100px;
+	height: 150px;
+	margin-top: 2px;
+
+}
+
+.my-error-class {
+    color:#FF0000;  /* red */
+}
+
+.moviendo__boton__de__edicion__de__historia__clinica{
+	position: relative;
+	top: -14px;
+	left: 45%;
+}
+
+.ubicando__el__nombre__del__usuario{
+	position: relative;
+	top: -38px;
+	margin-left: 10%;
+}
+
+.ubicando__el__nombre__del__usuario__sin__especialidad{
+	position: relative;
+	top: -59px;
+	margin-left: 78%;
+}
+
+.contenedor__de__separacion{
+	height: 280px;
+	width: 100%;
+	display: flex;
+	padding:80px 0 700px;
+}
+.contenedor__de__areas{
+	width: 45%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.contenedor__de__especialidades{
+	width: 45%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-left: 10%;
+}
+
+
+.matizando__titulo__separado__de__areas__especialidades{
+	font-size: 30px;
+	color: #3E94D1;
+	font-weight: bold;
+	position: relative;
+	top: 40px;
+}
+
+.nivelando__areas__y__especialidades{
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	position: relative;
+	top: 140px;
+}
+
+.boton__de__areas__y__especialidades__dadas{
+	margin-right: 2%;
+	margin-top: 10px;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.titulo__para__especificacion__por__area{
+	font-size:25px;
+	font-weight: bold;
+	color: #006B53;
+	text-transform: uppercase;
+
+}
+
+#formularioLLevadoDado{
+	position: relative;
+	top: 35px;
+}
+
+#retrocederEscogimiento{
+	position: relative;
+	top: 45px;
+	left: 7%;
+}
+
+
+.cabeceradetablaMercaderia{
+	font-size:12px;
+	font-family: sans-serif;
+	align-items: center;
+	font-weight: bold;
+}
+
+.textoCalzado{
+	font-size:11px;
+	font-family: sans-serif;
+	align-items: center;
+	font-weight: bold;
+}
+
+.sinborder{
+	border: hidden;
+	
+}
+
+.cpestana1{
+height: auto;
+width: 98%;
+}
+
+.direccion__dada__alegoria{
+  width: 200px;
+
+
+}
+
+.elemento__linea__3{
+  font-size: 12px;
+  text-align: center;
+  height: 50px;
+}
+
+.elemento__linea__1::-webkit-input-placeholder {
+    /* Google Chrome y Safari */
+    text-align: center;
+    padding: .5%;
+    color: #797585;
+}
+
+img.pequeña{
+  width: 50px; height: 50px;
+}
+img.mediana{
+  width: 50px; height: 40px;
+}
+img.grande{
+  width: 200px; height: 200px;
+}
+
+#div1{
+	overflow: scroll;
+	width: 2000px;
+
+}
+
+.div2{
+	
+	width: 57%;
+	justify-content: center;
+	overflow: scroll;
+	margin: 1rem;
+	position: relative;
+	left: 21%;
+
+}
+
+.contenedor__de__palabras2{
+
+    font-size: xx-small;
+}
+
+.errorFormularios{
+	border:1px solid red;
+}
+
+
+#marcaAtridas{
+    margin-left: 0px!important;
+    width: 1274.67px!important;
+}
+
+#marcaAtridas th:nth-child(1){
+width: 58.6667px!important;
+}
+
+#marcaAtridas  th:nth-child(2){
+width: 104px!important;
+}
+
+.botones__de__registros{
+	background: #2A4480;
+	padding: .5em;
+	border-radius: .5em;
+	color:white;
+}
+
+.label__titulos{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/* Inputs del tipo radio */
+
+.natural__juridica{
+	width: 30px;
+    height: 30px;
+    position: relative;
+    left: -5%
+}
+
+.clases__flexibles{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.posicion__rotulos{
+	width: 80%;
+}
+
+.posicion__rotulos2{
+	width:10%;
+	margin-left: 10%;
+}
+
+.padding__tablas{
+	padding: 1em;
+}
+
+.contenedor__secciones{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%!important;
+	margin-top: 1em;
+}
+
+.contenedor__secciones__dos{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%!important;
+	margin-top: 1em;
+}
+
+.contenedor__secciones2{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 45%;
+	margin-left: 2.5%;	
+	text-align: center;
+}
+
+.contenedor__secciones3{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%!important;
+}
+
+.contenedor__secciones4{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 20%;
+	text-align: center;
+	margin-left: .5%;
+}
+
+.contenedor__secciones5{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 2%;
+	text-align: center;
+}
+
+.body__adaptable__flex{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%!important;
+}
+
+.input__ancho{
+	width: 100%!important;
+}
+
+#registroDocumentos{
+	margin-top: 2em;
+}
+
+.clases__archivos{
+	font-size:12px; 
+	background:#0091ea;
+	color:white; 
+	padding:.8em;
+	text-align: center;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.contenedor__secciones .contenedor__secciones2 label{
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.letras__pequenias{
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.estilos__checkeboxes{
+	height:20px!important; 
+	width:20px!important;
+}
