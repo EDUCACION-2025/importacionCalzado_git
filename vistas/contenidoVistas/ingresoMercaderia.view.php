@@ -115,6 +115,10 @@
 
         <div class="formulario__display__flex">
 
+        <!-- <div>
+          Carga de productos desactivada por mantenimiento
+        </div> -->
+
             <input  type="text" name="direccionDocumentoExcel" id="direccionDocumentoExcel" disabled="">
             <label for="documentoExcelProductos" class="documentos__excel__productos">
                 <i class="fas fa-cloud-upload-alt color__subidas"></i>&nbsp;&nbsp;Subir Documento Excel

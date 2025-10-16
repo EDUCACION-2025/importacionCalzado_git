@@ -38,7 +38,7 @@
 
 					$password2=sha1($_POST["password"]);
 
-					$query = $conexionEstablecida->prepare("SELECT a.usuario, a.`password` AS contrasena, b.estado, b.id_rol FROM ic_usuario AS a INNER JOIN ic_usuario_roles AS b ON a.id_Actor=b.id_usuario  INNER JOIN ic_roles AS c ON b.id_rol=c.id_rol WHERE a.usuario=:usuario AND a.`password`=:password AND b.estado='A';");
+					$query = $conexionEstablecida->prepare("SELECT a.usuario, a.`password` AS contrasena, b.estado, b.id_rol FROM ic_usuario AS a INNER JOIN ic_usuario_roles AS b ON a.id_Actor=b.id_usuario  INNER JOIN ic_roles AS c ON b.id_rol=c.id_rol WHERE a.usuario=:usuario AND a.`password`=:password AND b.estado='A' AND a.estadoActor='A';");
 					$query->execute(array('usuario'=>htmlentities(trim($_POST["usuario"]), ENT_QUOTES),'password'=>htmlentities(trim($password2), ENT_QUOTES)));
 
 					while($registro = $query->fetch()) {

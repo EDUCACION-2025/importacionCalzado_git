@@ -202,7 +202,7 @@
 		<script src="js/ajax/inserta2.js"></script>
 
 		<!-- tablas atravez del datablets -->
-		<script src="js/datatablets/tablas.js?v=1.1.65"></script>
+		<script src="js/datatablets/tablas.js?v=1.1.90"></script>
 
 		<!-- Plugins Alertify -->  
     	<script src="layout/alertifyjs/js/alertify.min.js"></script> 
