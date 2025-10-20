@@ -19,7 +19,7 @@
             <thead>
 
                   <tr>
-
+                    <th style="display:none;">ID</th>
                     <th>FECHA DE APROBACIÓN</th>
                     <th>IMPORTADOR</th>
                     <th>CÓDIGO</th>
@@ -36,7 +36,7 @@
             <tfoot>
    
                   <tr>
-
+                    <th style="display:none;">ID</th>
                     <th>FECHA DE APROBACIÓN</th>
                     <th>IMPORTADOR</th>
                     <th>CÓDIGO</th>
